@@ -11,7 +11,7 @@ seek the agreement of those present at this time._
 ## Declaration
 To be made if a conflict of interest situation arises.
 
-## Welcome to Visitors##
+## Welcome to Visitors
 Guest speaker, other visitors and new members.
 
 ## All Stand
