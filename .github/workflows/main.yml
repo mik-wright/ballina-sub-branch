@@ -1,0 +1,5 @@
+            - name: Pandoc Document Converter
+  # You may pin to the exact commit or the version.
+  # uses: maxheld83/pandoc-action@65a2c5927b84724fe0febcff7db28605d10302d5
+  uses: maxheld83/pandoc-action@v2
+          
