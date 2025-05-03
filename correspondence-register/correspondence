@@ -1,0 +1,7 @@
+## Correspondence register
+
+```dataview
+LIST WITHOUT ID
+	link(file.name, title)
+FROM "/correspondence-register"
+```
