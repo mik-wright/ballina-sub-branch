@@ -218,7 +218,10 @@ meeting.
 The Chairperson is entitled to their normal deliberative vote (that is, their vote as a member), providing that
 it is exercised before the result of the count is known. The Chairperson will not have a casting vote.
 
-[[agenda-template.md]]
+> [!Note]
+> We can draw the agenda template out to have it as a separate file that can be copied
+> [Adenda template](agenda-template.md)
+
 
 ## 3. Meeting Agenda Template
 
