@@ -14,6 +14,23 @@ Scale to agendas, minutes and correspondence
 Work with web provider to integrate or determine is wordpress can be used as well or instead given that there are integrations available
 Created correspondence register already in SharePoint to register correspondence
 
+We can create a Ballina sub-Branch github organisation for free and a mono-repo
+
+### Pros
+- Scalable
+- Massive open source support
+- permanence
+- lightweight text documents
+- easy to replicate
+- works on any system, including mobile
+
+### Cons
+- "Techy" solution
+- Privacy or confidentiality concerns
+- Duplication of effort
+- Multiple systems
+- Communicating externally
+
 ## Next steps
 
 - [ ] Consider templates
