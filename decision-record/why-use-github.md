@@ -9,9 +9,9 @@ Inspiration comes from Tris Oaten and his noboilerplate YouTube [video](https://
 Reason for requirement is based on limited handover and difficult to navigate SharePoint site that has multiple files and no easy to navigate structure.
 
 ## Discussion
-Propose to use github for decision record as first iteration
-Scale to agendas, minutes and correspondence
-Work with web provider to integrate or determine is wordpress can be used as well or instead given that there are integrations available
+Propose to use github for decision record as first iteration then
+scale to agendas, minutes and correspondence.
+Work with web provider to integrate or determine if wordpress can be used as well or instead given that there are integrations available
 Created correspondence register already in SharePoint to register correspondence
 
 We can create a Ballina sub-Branch github organisation for free and a mono-repo
