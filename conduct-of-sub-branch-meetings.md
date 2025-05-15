@@ -76,17 +76,22 @@ Suspension of standing orders at a meeting merely relaxes the normal rules of de
 still be minuted in the usual way otherwise there would be no record of decisions made. A member desiring
 the departure from the rules should rise and seek leave of the meeting to suspend standing orders. The
 process for seeking leave is shown above at paragraph 2.6.
+
 ### 2.10. Recommendations
+
 No recommendations in any report shall be taken as adopted by a meeting unless a specific motion on the
 subject matter of that recommendation has been carried.
+
 ### 2.11. Motions
+
 Any motion put before a meeting of a sub-Branch:
 
 a) must commence with “That”;
 b) must be specific in regard to:
-i. what action is to be taken,
-ii. who is to take the action, and;
-iii. the time requirement for the action (if applicable).
+  i. what action is to be taken,
+  ii. who is to take the action, and;
+  iii. the time requirement for the action (if     
+applicable).
 c) must be unambiguous;
 d) must not be worded in the first person;
 e) must not contain more than one sentence;
@@ -103,6 +108,7 @@ n) should preferably be submitted in writing; and
 o) gives right of reply
 
 ### 2.12. Amendments
+
 An amendment is an alteration or proposed alteration to the terms of a motion, designed to improve the
 motion without contradicting it. An amendment can be to leave some words out, to leave some words out
 and insert others in their place, or to add new words. Amendments:
@@ -121,13 +127,14 @@ l) should preferably be submitted in writing; and
 m) gives no right of reply.
 
 ### 2.13. Order of Debate
+
 The order of debate of motions is as follows:
 a) the mover of the motion should rise, propose the motion and then explain the motion;
 b) the Chairperson calls for a seconder of the motion (a seconder can reserve the right to speak later);
 c) other speakers to the motion, as follows:
-i. mover of the first amendment,
-ii. seconder of the first amendment, then
-iii. other speakers to the first amendment.
+  i. mover of the first amendment,
+  ii. seconder of the first amendment, then
+  iii. other speakers to the first amendment.
 d) voting on the first amendment;
 e) further speakers to the motion;
 f) mover of the second amendment;
@@ -138,10 +145,12 @@ j) the mover of the motion in reply; then
 k) voting on the motion
 
 ### 2.14. Disposal
+
 The vote on the motion, whether in its original form or in an amended form, finally disposes of the business.
 Once a motion is carried, it becomes a ‘resolution’ of that meeting.
 
 ### 2.15. Points of Order
+
 A point of order is taken when a person officially draws the attention of the chairperson of a meeting to an
 alleged irregularity in the proceedings.
 An alleged point of order can be one involving the following:
@@ -166,6 +175,7 @@ including the person taking the point of order) the decision of the chairperson 
 explanations.
 
 ### 2.16. Role of Chairperson
+
 Every meeting must have a chairperson to ensure that proceedings are conducted in a proper and orderly
 manner and that the sense of the meeting may be ascertained. Sub-Branch Presidents or their nominees are
 to chair meetings of their organisation. The chair must be familiar with the Constitution and SOPs.
